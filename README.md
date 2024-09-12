@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=15907208)
 # Pytest Tester
 
 This is a simple project used to demonstrate and practice the use of Pytest, the Python testing framework. The project contains a set of functions that perform simple mathematical operations, and the goal is to write tests for these functions using Pytest.
